@@ -12,8 +12,8 @@
     │   │   │    │    │    ├── register.js
     │   │   │    │    │    └── register.css
     │   │   │    │    └── login
-    │   │   │    │          ├── login.js
-    │   │   │    │          └── login.css
+    │   │   │    │         ├── login.js
+    │   │   │    │         └── login.css
     │   │   │    ├── home
     │   │   │    │    ├── home.js
     │   │   │    │    └── home.css
