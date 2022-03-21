@@ -17,10 +17,10 @@
     cursor: pointer;
 }
 
-img {
+.header > .sections > img {
     width: 4vw;
 }
 
-img:hover {
+.header > .sections > img:hover {
     mix-blend-mode: difference;
 }
