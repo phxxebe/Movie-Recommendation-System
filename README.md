@@ -29,9 +29,9 @@
     │   │   │    ├── support
     │   │   │    │    ├── support.js
     │   │   │    │    └── support.css
-    │   │   │    ├── watchlist
-    │   │   │    │    ├── watchlist.js
-    │   │   │    │    └── watchlist.css
+    │   │   │    └── watchlist
+    │   │   │         ├── watchlist.js
+    │   │   │         └── watchlist.css
     │   │   ├── assets
     │   │   │    ├── bg.png
     │   │   │    ├── bg2.png
