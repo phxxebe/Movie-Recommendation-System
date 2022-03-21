@@ -22,7 +22,7 @@
     │   │   │    │    └── header.css
     │   │   │    ├── recommended
     │   │   │    │    ├── recommended.js
-    │   │   │    │    └──recommended.css
+    │   │   │    │    └── recommended.css
     │   │   │    ├── search
     │   │   │    │    ├── search.js
     │   │   │    │    └── search.css
