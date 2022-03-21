@@ -2,23 +2,32 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: baseline;
     width: 90vw;
     height: 90vh;
     border-radius: 20px;
     box-shadow: 0 0 15px 5px gray;
     background-color: white;
+    background-image: url(../../assets/bg2.png);
     position: relative;
 }
 
-.home > .button {
-    background-color: rgb(68, 148, 214);
-    border: 1px solid lightblue;
-    color: white;
-    font-size: 1.25rem;
-    padding: 0.5rem;
-    margin: 0.5rem 0;
-    border-radius: 8px;
-    outline: none;
-    cursor: pointer;
+.home > .about {
+    /* border: 1px solid black; */
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.home > .about > h1, h2, h3, h4, h5, h6 {
+    margin: 0.5rem;
+}
+
+.home > .about > h1 {
+    font-size: xx-large;
+}
+
+.home > .about > img {
+    width: 8vw;
+    mix-blend-mode: difference;
 }

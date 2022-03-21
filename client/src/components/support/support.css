@@ -1,0 +1,60 @@
+.support {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    width: 90vw;
+    height: 90vh;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px gray;
+    background-color: white;
+    background-image: url(../../assets/bg2.png);
+    position: relative;
+}
+
+.support > .sections {
+    /* border: 1px solid black; */
+    margin: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.support > .sections > .button {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid rgb(214, 173, 230);
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    margin: 0 1.5rem;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+img {
+    width: 4vw;
+}
+
+img:hover {
+    mix-blend-mode: difference;
+}
+
+.support > .about {
+    /* border: 1px solid black; */
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.support > .about > h1, h2, h3, h4, h5, h6 {
+    margin: 0.5rem;
+}
+
+.support > .about > h1 {
+    font-size: xx-large;
+}
+
+.support > .about > img {
+    width: 8vw;
+    mix-blend-mode: difference;
+}
